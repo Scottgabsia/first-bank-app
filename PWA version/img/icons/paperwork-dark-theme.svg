@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-13.6%" y="-13.0%" width="127.3%" height="126.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="5.-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0-All-Pages" transform="translate(-30.000000, -102.000000)">
+            <g id="Top-All-Pages-Box" transform="translate(0.000000, 76.000000)">
+                <image id="Bitmap" filter="url(#filter-1)" x="32" y="28" width="22" height="23" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAXCAYAAAAP6L+eAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFqADAAQAAAABAAAAFwAAAAAhQRrqAAACXklEQVQ4EZ2Vv2sUQRTHZ5K7KDYK0ZwaCViIqIiVSCxMlyIIomIggsUhCIo26v8gBJugWGohqI0hhBykEQQbxcJCA9qoaJFCPC4o4q/s+vnu7mxmJ7e5iwPfe/Pe+77vzM683bNxHI8aY3aBTmMcwgVr7SefSL1qlbtF7o/LVZgMErjrAmUWgSq5O9iL8D97vB7mvZ6fTiHWVwXbBMQDG0ADDIYUYlVwBvQpp9W6HVshHgKTYBqBbUGh/GGwQ3ELoc6j3ctW2qSgN76RW5ZPXme5Ocvtxi6Re5b5iYFDyMZydMZuDDE56JzMPoe8kfmBIK7z3k7ueBbX479C9IPj+cJfCL5xicxKdAQ0gnjo7iPwkIXOIv5eyVz42oIZX47MlF9xsmaujwyYJ5C1aOlAsEbyKphifgX+x/zyIo4xssb6KFVqn/hN+BS4jfiQf3lbCA4ENTvxF9nBuyBecBFS+02AJtB5j+VHgaN22g/88dc5catxg2da1b9JvjWX0qLoge0/Mc9Cv3xhvapfnVBmV7ph8eZRTutYkC+6PSuX7AvvgXWkyEwWSi+uduk1wq0gX3Rt9NOYp2mMbZe+0uSGwd5idWdPmv6O16yAfBqCe/PKuC+46AUluxam4HGZWru4hPvYTYXCvAPaEde7Y/VxP0JjQO9/ONQlbzv1cViEZl07VfH9MCkfgj6DyXg0PTNZrfSq10tHa+n7zPlzE7MiWP0gcBjzA/jtRnsld9D8rx1TbCh8KctIbjSdFnfsYt3a/CNUUsC3aV3/MrlMchS5F0w4In1QLoO137igDrf5D6NU4f9g8VzPAAAAAElFTkSuQmCC"></image>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-9.2%" y="-9.2%" width="118.5%" height="118.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="2.-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-Home" transform="translate(-130.000000, -752.000000)">
+            <g id="IEBS-Block" transform="translate(31.000000, 598.000000)">
+                <g id="Bills" transform="translate(0.000000, 147.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="101" y="9" width="39" height="39" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAJ6ADAAQAAAABAAAAJwAAAAA+NMKoAAADNElEQVRYCe1YTYriQBTWpIzjzCjdijtvoSCiC1eKB/A+3scDiDsXuhD0Fu5Ee9BmxBiTeV/whYomqQitkwYDoSqv3s+Xl3o/lVTqjqvX62Xr9XpBFqlWqz/b7fZvmYZn0GUa5CAv01RzTcUgr5/PZ6FpmnAcJ810QRfNccsXyB4N/JCDvMykmt8FTqXsq9c9D7Difr9vrNdr43Q63axlMhn9eDySE7QT86fTaXgEnvFotm1ndF0nhzkW84GWzWZt0ntmGo+k1ymXy+ZwODSZhtEHAMBWq5W7f6BcZnzkHC8H/ZVK5VMG6NsD8BiYut3un8FgYGP+jItsaePx+O1i3+c9z36z2cy3Wq13j/DECezCvmwy0QHxAid/qnvmifacQEnhzG2apm5ZXmoKfEkqTWK/3xulUsmXhgKZL8TNZuPk83lzMplEKkce7XQ6vyBGqcwS2+02i9LCyqPyG4BREi4YhpEigCyiHMFPcj9IfhcFEAmebrf+UtLWxXw+33GtpHBGAvaAXluFx2CIPLxfLBaRXpBla7WaILk85IkeKocqM51OPyFLlcdx9xwmuGWFQXP+lADGMnFGfhGWD9LNNNaH52QHBPoubm8Itc5v8D9Gsi+4X6TAtDSKIi2Xy7k3F+CvBoZPhf2ECIzSDfuMBbgERY+7ASF0qW2hARGlWLU2m82U4Y0XIDweX6L3XKLBCUqMXm5DEoxKwqpPF7WOLVMoFMzRaHQM40O3THjeLuuWRonRPhwO7v0oYEjyMMxlMgwc7DMW4BLL5fIvM+PtEM78/OwRZw6qWN8oIOB2rq9R3kJ3gXXUSpaJM4IfciyPedjF+rCeRka+7kqo+H4ECdNmdbuSoLU4NDoahnYlOEPIRYD2qCWKxeKRiO5ZkrqNDFWN0D4N7Q4B3KG7iFPEGXDcfg7nWupe3PPvTTVBQLxOX+xSxZjoCvECp/h6ocs+z+FvD8IZ/y5CJR6wAHuwC/uyel/aSNpfJh84oE7S/znZi8o5DryNRqMolzpUGKnNcXXgmc8CIIAfcnxgVhq6MDx1b8UFxXx3gUNJQc3DgYUV4JRE8+uDC8geDfyQuylJrCRk/AeQINhIeX1T/AAAAABJRU5ErkJggg=="></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

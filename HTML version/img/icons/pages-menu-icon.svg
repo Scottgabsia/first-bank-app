@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="25px" viewBox="0 0 27 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-22.5%" y="-22.5%" width="145.0%" height="145.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="3.-Menu-/-Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0-Menu" transform="translate(-31.000000, -314.000000)">
+            <g id="Menu-Items" transform="translate(34.999955, 227.000000)">
+                <g id="Promocodes" transform="translate(0.000045, 90.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="0" y="0" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAAB8ElEQVQ4Ea2UyytEcRTHZ7yGKFJDSMq7ycaG8kgpC3kslIWUoijFRnksFLGQmpWyUSIWskPyCuOtZO2fsKAsWBmfc91z52dmMqb86tP5nu85v3Nv9/fruoLB4DgUu/5puRl2xqwWt9v9iS5F94AHXuEFniFA/Y0YcyXQ8QFZDMshrsIVHMATvEMJHFL3EWMvGhvhGNahNdoO/EIIgLxA7EVjMzxoJ7oYijSXSC7fetjWWWYtQtO4AO1aQJ9BDkxCtT0kGX0DXpiCZUjWPT8ihXPTIH+EMtgEa6A9tIl8zdb96BPwmnstjXkKaVpAV8A2DKinEW8DGiQn1sI9OA+1+jB6YV43/Rbpy4VrSJI+Yh7IJ5LrFloYR1AWckIKfwastxIXPQJj2oH2wC7UqCdNPth3jO+NQ3h1IG9xCda1ISbaeYH0iw/7UGnul8IidKuJlkEXIBsmYMioyffbkpw4DaNacyJmOtxBhppouTqDkAK34NxB9Aq0QK72R0SKXeDXAtoZhG6DOaOWTS7/gt8XTXtQpV3odliUnJhq+J3k1r1UL2qkqQROzCJ5vuboctiBJXA+j9ajRhpnoc8skmeCH+RE//b30QFsSAU5IPm1ySnLwcihdGhP3JHN9RAAGSR/m5S4h4RvYIhcJecgwuvh+Rd9jfh1mwyEngAAAABJRU5ErkJggg=="></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

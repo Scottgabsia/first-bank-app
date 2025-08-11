@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-16.5%" y="-16.5%" width="133.0%" height="133.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="5.-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.3-Saving" transform="translate(-29.000000, -105.000000)">
+            <g id="Top-Profile-image" transform="translate(0.000000, 76.000000)">
+                <image id="Bitmap" filter="url(#filter-1)" x="32" y="31" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAAC/ElEQVQ4EY1VS09TQRT+pi2lL6AIRIiEgFWoD4yKMfhiYXTBhoWRRHBl3EuCv8BfoIuqMdHEhUaNQuJKY8SNIREQhDQ+gAA+sCKFlraUS6Ht+E3D1WsLhJOce8585ztnzp2ZOxfIEimljXqRas8KbWloWYdlJVZMzadq68QzECcsodNgiM/RXxQKYNBEc5X6TAgxpbDNhHwv49upDgPvLf3VTIcskiZpnICaZSsyQ1LUQJSssajGmQ4NAYxHIo2T0VCbEdvIL7bbRo+WVtwyxnPWUBXz+QevJGaCWAnOq/VAXnABZkhoRS6IfCtEXh5cXg9aqj3vWWzzgmo27UcAqSUNBfVeVE4E0NnajqERP6bjMbxxCCTjS4gOfQSqPcbmMr7ajBxJLkThqvNAptI4uXMXhob9cDmd6GhrgyMwB2vpNnZpzslTwLoFU4kVpLRlCLMJMwth7PHW4tPoOKamp5Gwq1PF7VyIZWz2I2cNFcHdUI9w3zAsTjteRuMY+zIGC/ev0+dDrMyN1clvKDzgHWoqSTyW80/us90V2PbdFY66/pyCbos13LSj6hfOVWVPjuo1REsmlzpqUs8LI7evxcJfnU6bgKmgsUXGRtpzjo3K4Zm0reVuZNKY9b1DqOuQrzuJ04dN2FvN1Su73JXToarAQ7q8USWFc0LBRS5S/u5KgcFRyYIcpLVC04tZ+ejGhBzpDsg+EouoeYq4mXBCCXuNX3FicYkT9exOcLNsOz+Im1Oy9+lPHD9YhNj1/WgmR32jaivVuQhSe1ggRfufSDlRhdDAPcQHjsDsSMB1rAeFzZeyX3mKyb16Jrstp3+BVk2g3zz95EwK4flO7CxjqgGNWObbzi7I2D8hSV0CD3WEyYp/njqpY+T81n1lswtamaTuwgiJaZ1I7Az9Uqp69RDHp/QY7Wdy/95SlvJ8JL0FSNS6oK4fVayW6maSumDj1FdMeE2bEeIVdIzHrZXYHb0BwYGbhBKqWodAJmvtwZiTrupus9+BhXkP9Lw/roweCVdg6HUAAAAASUVORK5CYII="></image>
+            </g>
+        </g>
+    </g>
+</svg>

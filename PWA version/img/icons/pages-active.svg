@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="31px" viewBox="0 0 29 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group@3x</title>
+    <defs>
+        <filter x="-23.7%" y="-21.4%" width="147.4%" height="142.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="5.-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0-All-Pages" transform="translate(-101.000000, -750.000000)">
+            <g id="Footer-Menu" transform="translate(0.000000, 710.000000)">
+                <g id="Pages" transform="translate(103.000000, 45.000000)">
+                    <g id="Group" transform="translate(3.000000, 0.000000)">
+                        <rect id="Active" fill-opacity="0.5" fill="#40C4FF" x="5" y="6" width="9" height="10"></rect>
+                        <image id="Bitmap" filter="url(#filter-1)" x="0" y="0" width="19" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAVCAYAAACkCdXRAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAE6ADAAQAAAABAAAAFQAAAACvL6UGAAABtUlEQVQ4Ea2Vv0vDQBTHm3glhNBKcVMcRBBXKWktReg/4OTgIhQXiyD4Bzg4dnMVxFGhg7+2bpKh0CYkqy46iaNUwZAmJKnf01bCXSpJMXDpe7nvfe69dy+NUCqVlsIwPMtkMosYSS/dNM06KyZBEOyKonipKMoFOxnn+76fGwwG93FzRBAEZTgc9jVN8+ME7LNqtfqrKxaL+9lsVuv1eo9UJ7LiND4yMhHpLaCrU8Hy+byHTCREOC9J0hPsOrK7Q+1XUkfWbrddRHGCurUwTi3L0gFs4hAbJE1aYy0A57Dp+L4Q2Ts1YmEIeY4QMvMj5e+oU2AYxhs7w8EqlcqC53kthD0RBkgI3Xa3232NAjnYSLARFSW1ORhdiKOelWV54uE4jhOibh/sJhxslOY1TuqvNAPotpKmuc7umsTnIqOL0JA5dnGn0/lUVXUTPXWMVmjiRb9iNRwM9Vp2XZcTAnQA0A5AN7TrAeI0HAyFfYZwjd2V+uVyuY8ea6AHj+LmOVicaPxM1/UH2Idjn/2dePysMIn/rzCCYtr4XyrUarVUKUcjtW27gNfPFqb8BkRZ1H5BQHtf2LuyUdFOWBQAAAAASUVORK5CYII="></image>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

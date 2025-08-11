@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-18.8%" y="-25.0%" width="137.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="6.-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.1-Accordion" transform="translate(-49.000000, -877.000000)">
+            <g id="INSET-ICONED" transform="translate(31.000000, 572.000000)">
+                <image id="Bitmap" filter="url(#filter-1)" x="20" y="307" width="16" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAADAAAAACRRQtxAAABdklEQVQoFZWSP0vDUBTFm+Rpv0D909BBstTFKYlbnNRJ3IqLrtLBwUEFF0elooNFxFkn6V4Hhy7qYFO/gNBFNIuLUAgoNP5uaOB1qOiFx73nvnPOzXt5Ro7wPG+LNC31P+IxDMOmQlw2DMPK5/OnSqn4Lwa9Xm85SZJZuE1FMY7BZxzHm+RnXO9+M2HgEhrPsqwz13XHTESJCDqdTo2NQAijDAbiAO4B3FW0ZVMnDzYC3/cX9b7UuljfM3Ey9IaY9Pv9Xd1kIN6RPZ0rtcqOIEDORDpi1TFZwCQnA+Ro0mP/hLyP0Tc5Dcu27UlM7FKp9EqnbprmBRf5EEVRq1gsrtArIKiBX+C8gQ/J9+Qy693AdQ6DdcAEk/Ygf1CPDPgF+McQhHelhIlwxnGcjUaj8SWYT1+jNy91Foie2u32jQyoVCrVbrd7TS8nXyAPQn7dpZAxGrpUHs0Q5r2kmH4V+m0KuOVtJk6JgRbp+8gw04Yw/Yi7Ov8BJ8OvQRCwBhYAAAAASUVORK5CYII="></image>
+            </g>
+        </g>
+    </g>
+</svg>

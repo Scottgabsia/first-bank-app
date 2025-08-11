@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="29px" viewBox="0 0 26 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-25.0%" y="-21.4%" width="150.0%" height="142.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="3.-Menu-/-Charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0-Menu" transform="translate(-32.000000, -357.000000)">
+            <g id="Menu-Items" transform="translate(34.999955, 227.000000)">
+                <g id="Components" transform="translate(1.000045, 134.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="0" y="0" width="18" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAVCAYAAABLy77vAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEqADAAQAAAABAAAAFQAAAAAoiW5FAAABGElEQVQ4Ec2TMQrCQBBFs0YrsRARSw8gegBvIGLpFbyAoCewkjSCIHgAQREUr2BnaZlGsdVOK4v4VlJkd5VsgoUDn+z8/Pm7M5uIIAjGjuN0gW0UEbaFEHulACNfIWIS9BPQ0mUZnbDNMauGpm+P1Ea0dmZTWT/HUKQxulFcp7jBcwgCMHUgks6oQs0MbEETZMAlsRG7G4GRn9VZyAJcSee1/MqM7lHOMOJlD3Siog/rHZyn8PJYCpEi+dZaDq98jN+D1p5RzafWBgjifpkVmlHU6Ge3Zv1BMgcXLEK4ymlIDCOEHjhpWKOtgXIIuVbCmBFD7KOQUAJjAXEIyaPyUiYIfnL9RmvGTpbE/xnJYW/kDVl28E22fAG9QZhvSP3dPAAAAABJRU5ErkJggg=="></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

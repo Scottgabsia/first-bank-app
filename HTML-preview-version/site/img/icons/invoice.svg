@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="32px" viewBox="0 0 29 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-21.4%" y="-17.3%" width="142.9%" height="134.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="5.-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.2.8-Invoice" transform="translate(-28.000000, -99.000000)">
+            <image id="Bitmap" filter="url(#filter-1)" x="32" y="101" width="21" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAaCAYAAABYQRdDAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFaADAAQAAAABAAAAGgAAAACKS4XfAAADLUlEQVRIDeVVTUwTQRR+M7ttKQ2YEP+IkBB/YAsJEkqBgjUVAgkHDmKCBz1w8GAk8aQkXgzx4smLkcQDMTEGI/jDQb0YJQWBUiokkjYWG0EgoETCP7TsbmfcWdi6FVS0R1+y+37me9/Ovnn7FmBLHA6HWSg64dL8RDTWkhdEWk9otMFmq03WYv+qUUlJTeqyvGo5W1s5+/C5O+3jkHsur8SZG5WjGQghultiYoLAaF/fDMPjBXnxkkzlJuaohEXOYlmSnwFnWKEYTfzpIgCTDIM2SJ1Q6spiPDyAqdWExD3Nzc0kjxES+QYAvc4jfszv7Z5loF+JteTkMUrFChoFqwT8LZO4YVOwn3m2O8WY0wiDQ/01gr38jEaUf+5yl+Hw8UOaL429nx5pu13B/A/enpCiQjn2svNGEZKA20QpOwXIKXTmS1S+BxhftdrKqpWdFmBjuIetIXOKxZgppDObifxlbHHT+nFHCA9KURw2clE1iNg9115er7zCJIfoN+ZLHE9GB3vGmZ1ndx1ERLQwWxXevOr3vtlWFqvNmQ5ULiVm/FoltRY6TgPiBxDm0yQsC1r+z1rpBp5SKitJBqUtJG3dQPggJfI8I8UYptXX1xbtgtjRWMcd1Xy9Xl4HCIwT7MjD5JWP4Go7Vg5+U+50iiFfAFcxTwKUE0e6FqFLA37Cir9N1iLATcxSC6JkOTRF01LNZF4DrYfpsmYDoalxpCOfaNuTx70tMYDOyLa59gKWKu+29rZnFzoa7z/wxHDM59RCbibEPlNdfsLmf0xq4ExPsWAvrU24iDqCgM/9FaknBzDDmp9QyUkB7dNhYiZreIRgP6EwXZBkaDrCGyLaYkiUggGJXmTN/2HY0xnXUqPDAx0a8Hf6wqmqKw0pydka5ubSij8gxT4wNvr+XrrXI9f6IxuxeSBynF/PEkcqFJc5iEwL9QCl5yaCw54X+thL79tHep/Z6kDZCsaRxgGRqX1r1saFd+PwFGiXMjXVyRQc7PcoSexKSDCH+QMJMeyQjIPvet2EgzAH0YR+zSyf8bBnqDXlszK6xPGpRqVnxR0evKuQiIjRkJXZAj6A74CGSHDj4CuOAAAAAElFTkSuQmCC"></image>
+        </g>
+    </g>
+</svg>

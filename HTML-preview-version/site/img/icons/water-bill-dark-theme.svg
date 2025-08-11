@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-9.4%" y="-9.4%" width="118.9%" height="118.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="2.-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-Home" transform="translate(-87.000000, -1679.000000)">
+            <g id="MONTHLY-BILLS-SECTION" transform="translate(32.000000, 1624.000000)">
+                <g id="Water-Montly-subscrabtion" transform="translate(0.000000, 30.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="58" y="27.7734375" width="35" height="35" xlink:href="data:image/png;base64,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"></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

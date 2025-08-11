@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-23.6%" y="-23.6%" width="147.1%" height="147.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="6.-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.0-Components" transform="translate(-49.000000, -231.000000)">
+            <g id="CONTENT" transform="translate(31.000000, 230.000000)">
+                <g id="Accordion" transform="translate(1.536424, 0.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="19.4635762" y="3" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAADgAAAAC98Dn6AAABiUlEQVQoFY2SvUvDUBTFm/Bq26EubkqXtM3q4CKCDgoKVSgIgg6CuIqig46dRHAoCBbxD3B2EocODoKddHA0aYr9AAehojikLWn8vdBAqFYNvJz77jnnvvtuEgr1Htd1w378H1SkqF6vj9m2XSB8URTlIpVKlf4yqz1BE3zCsAPqpmmelcvlqV/NlmUtSwHCE9r1CoGC/QZrf5BZgTxGmGMtCSFeNU277RfTwbyqqs/JZNLwORXDDcm5WCx27ThOxieCGI/H79BlKZCvVqua5BQSQyQOdV0/AI8ikUiBAXlD883tdvuT097hh8ltscKCVwed9ykoYrZaraws5pt6aIFX6XT6g6sV4fdEpVKZIPnARmVQ40x2t8/kbTltkmCd9YhmU3S73cVoNHpKpRnu+m0wFJ7m7msY7mVRuuvISrJVO5FINA3DyGDMyaR8KDQLrGAqYdjG4HhE8EWbYVrJyxy4QJFzjKuy/aAuGHvTq9VqowxF/gBvkEWGcMkJblA4MG40GiMDyR+IL+WVwWCRe+0nAAAAAElFTkSuQmCC"></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

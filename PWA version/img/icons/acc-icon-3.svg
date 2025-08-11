@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap@3x</title>
+    <defs>
+        <filter x="-21.4%" y="-21.4%" width="142.9%" height="142.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="6.-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.1-Accordion" transform="translate(-50.000000, -830.000000)">
+            <g id="INSET-ICONED" transform="translate(31.000000, 572.000000)">
+                <g id="3rd-Question" transform="translate(1.000000, 256.000000)">
+                    <image id="Bitmap" filter="url(#filter-1)" x="20" y="4" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAADgAAAAC98Dn6AAABOklEQVQoFY1Su0rFQBDNJiuJhaQUBBFS2Fok2Yix8h/srL0fIDa38mPsUtinsIqPSGJjo4WFWohIvMXFS4J5eGZxRSHFDiwzs3POzM5hmRBis+u6A8aYaWjYMAy9ZVmnvO/7Cec8adt2R4NnAHuJQRNOYNd176qqetchYsArXrcviWmafoL0qEMkTBAEhtZeYw21iBBwC1MucIRqIp+qEvJhGK5DOYHzhvS2LMsFdlpGnP94ghn/iCAdgrAGQGqa5ioUn/q+b0OQF8/zjpMk6STrLzGKom3IzIqiOFFF+DMVY7IKpf+dmOf5NW7oaJmWOGOdGHY4wk4rKH6NAUbulqDDnFGBZEaySzGaPDmOc06xsrqu91DfoBz1DDrcyB3xae8hzIIKtm1/ZFk2o1hZHMdXTdM8UA7sM/lv7e51gRYZ7McAAAAASUVORK5CYII="></image>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
